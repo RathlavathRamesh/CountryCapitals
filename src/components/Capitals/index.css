@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.CaptalsContainer {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 60vh;
+  padding: 25px;
+  width: 50vw;
+  border-width: 0px;
+}
+.countryheading {
+  color: #323f4b;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10vh;
+  margin-left: 10px;
+}
+.form-control {
+  width: 20vw;
+  height: 8vh;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.select {
+  display: flex;
+}
+.contry {
+  color: #323f4b;
+}
